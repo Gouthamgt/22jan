@@ -1,3 +1,11 @@
+
 piepline{
     create{}
+
+pipeline{
+    add{}
+    stage{
+        
+    }
+
 }
